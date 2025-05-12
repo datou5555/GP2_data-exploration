@@ -2,7 +2,7 @@
 Group Project Part 2: Data exploration, visualization, and preprocessing
 
 ## 1. Install Required Packages & Download Data 
-(https://github.com/datou5555/GP2_data-exploration/blob/Milestone2/milestone2_data_exploration%20(4).ipynb)
+(milestone2_data_exploration%20 (4).ipynb)
 
     - In this step, we install missing dependencies and download the dataset if it's not already available.
     
