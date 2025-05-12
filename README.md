@@ -23,7 +23,8 @@ Group Project Part 2: Data exploration, visualization, and preprocessing
     - Detect and note missing values or unusual formats
 
 ## 3. Data Preprocessing 
-(https://github.com/datou5555/GP2_data-exploration/blob/Milestone2/milestone2_data_exploration(4).ipynb)
+(https://github.com/datou5555/GP2_data-exploration/blob/Milestone2/milestone2_data_exploration(4).ipynb#Step-3-Data-Cleaning-and-Preprocessing
+)
 
     - Clean and prepare the text data for analysis.
 
@@ -34,7 +35,7 @@ Group Project Part 2: Data exploration, visualization, and preprocessing
     - Tokenization and stopword removal using PySpark NLP functions
 
 ## 4. Visualization 
-(https://github.com/datou5555/GP2_data-exploration/blob/Milestone2/milestone2_data_exploration(4).ipynb)
+(https://github.com/datou5555/GP2_data-exploration/blob/Milestone2/milestone2_data_exploration(4).ipynb#Step-6-Data-Visualization-and-Correlation-Analysis)
 
     - Generate plots to explore patterns in the text or metadata.
 
