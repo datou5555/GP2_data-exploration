@@ -11,7 +11,7 @@ Group Project Part 2: Data exploration, visualization, and preprocessing
     - Download or load the dataset from the source (local file or web)
 
 ## 2. Load the Dataset & Explore Basic Info 
-(https://github.com/datou5555/GP2_data-exploration/blob/Milestone2/milestone2_data_exploration%20 (4).ipynb#Step-2--Spark-Session-Setup-and-Data-Loading
+(https://github.com/datou5555/GP2_data-exploration/blob/Milestone2/milestone2_data_exploration(4).ipynb#Step-2--Spark-Session-Setup-and-Data-Loading
 )
 
     - We load the dataset and check its structure and quality.
