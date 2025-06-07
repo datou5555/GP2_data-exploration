@@ -32,13 +32,14 @@ This task is compelling because it combines natural language understanding with 
 
 ### 🧼 Preprocessing
 
-# Convert to lowercase
+```# Convert to lowercase
 clean_review_df = clean_review_df.withColumn("lower_text", lower("text"))
 
 # Tokenize, remove stopwords, stem
 @udf(returnType=ArrayType(StringType()))
 def tokenize_text(text):
     # ... Uses NLTK stopwords and PorterStemmer
+```
 
 - Additional features computed:
 
@@ -60,9 +61,11 @@ def tokenize_text(text):
 
 - Train-test split: 80/20
 
+```
 pipeline = Pipeline(stages=[cv, idf, indexer, lr])
 model = pipeline.fit(train_data)
 predictions = model.transform(test_data)
+```
 
 ## 📈 Results
 
